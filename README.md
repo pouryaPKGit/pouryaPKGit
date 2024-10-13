@@ -4,4 +4,4 @@ Expertise :
 
 Js, Recat, Tailwind, Bootstrap, Git, Axios, Query, CssGrid, FlexBox, 
 
-![png-transparent-tailwind-css-hd-logo](https://github.com/user-attachments/assets/70d58846-0e53-49ef-8951-55e47f04ce8f)
+![Untitled-1](https://github.com/user-attachments/assets/28933153-aa8b-4e77-8ef9-d9aeef3e766e)
