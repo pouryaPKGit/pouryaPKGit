@@ -3,7 +3,7 @@ Hey
  
  started programing from 16 by c++ and after that i became interested in making website so i started with HTML & CSS and after 3 month started JS and after that started frameworks like React.js after that Typescript , Redux , and after these Next.js
 
-Expertise : 
+My Expertise : 
 
 ![Untitled-2 png22](https://github.com/user-attachments/assets/0456927f-b1ab-418c-a058-a53ab82d780d)
  ![Untitled-2 png2](https://github.com/user-attachments/assets/646a5bbf-3c77-4592-b127-fa1b7949933c) ![Untitled-2 png8](https://github.com/user-attachments/assets/6624fee9-5293-47af-9b1a-600ea7a8e3b0) ![Untitled-2 png4](https://github.com/user-attachments/assets/d8c70c5c-a6f3-4adc-b594-c0ab5372ef8c) ![Untitled-2 png112](https://github.com/user-attachments/assets/48fd0885-430b-4b5c-acc6-945e59d283b9)
