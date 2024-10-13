@@ -1,5 +1,5 @@
 Hey
- i'm pourya , i'm a frontend developer love to learn and work with friends 
+ i'm pourya , i'm a frontend developer who love to learn and work with friends 
 
 Expertise : 
 
