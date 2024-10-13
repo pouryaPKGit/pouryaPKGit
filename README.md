@@ -1,7 +1,7 @@
 Hey
  i'm Pourya , i'm a frontend developer who love to learn and work with friends .
  
- started programing from 16 by c++ and after that i became interested in making website 
+ started programing from 16 by c++ and after that i became interested in making website so i started with HTML & CSS and after 3 month started JS and after that started frameworks like React.js after that Typescript , Redux , and after these Next.js
 
 Expertise : 
 
