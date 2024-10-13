@@ -1,5 +1,7 @@
 Hey
- i'm pourya , i'm a frontend developer who love to learn and work with friends 
+ i'm Pourya , i'm a frontend developer who love to learn and work with friends .
+ 
+ started programing from 16 by c++ and after that i became interested in making website 
 
 Expertise : 
 
