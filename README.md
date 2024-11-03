@@ -15,7 +15,7 @@ My Expertise :
 
 
 
-![user (2)](https://github.com/user-attachments/assets/c3c7437f-63ad-4a87-a0e7-5bd391f113d6)
+
 
 
 
