@@ -45,7 +45,8 @@
         <br>Bootstrap
       </td>
       <td align="center" width="90"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="85" height="65" alt="Git" />
+        <img width="400" height="400" alt="wired-outline-2572-logo-github-hover-pinch" src="https://github.com/user-attachments/assets/47022d89-1c96-43ee-86e1-69bafe07a1c9" />
+
         <br>Git
       </td>
       <td align="center" width="90">
