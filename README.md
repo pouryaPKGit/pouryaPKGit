@@ -46,6 +46,7 @@
       </td>
       <td>
          <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/d5b14f79-065c-45ac-8e09-9d1d8826dbcc" />
+         <br>Git
       </td>
       <td align="center" width="90">
         <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
