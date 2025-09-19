@@ -10,7 +10,7 @@
 <!-- Trophy -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parhampk03" alt="parhampk03" />
+    <img src="https://github-profile-trophy.vercel.app/?username=parhampk03" alt="" />
   </a> 
 </p>
 
