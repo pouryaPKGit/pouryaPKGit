@@ -45,7 +45,7 @@
         <br>Bootstrap
       </td>
       <td align="center" width="90"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="85" height="65" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="90">
