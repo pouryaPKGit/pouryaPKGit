@@ -57,7 +57,7 @@
         <br>Next.js
       </td>       
       <td align="center" width="90">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55" height="55" alt="Node.js" />
+        <img src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://techstack-generator.vercel.app/aws-icon.svg)" width="55" height="55" alt="Node.js" />
         <br>Node.js
       </td>    
       <td align="center" width="90">
