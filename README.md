@@ -44,10 +44,8 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
         <br>Bootstrap
       </td>
-      <td align="center" width="90"> 
-        <img width="400" height="400" alt="wired-outline-2572-logo-github-hover-pinch" src="https://github.com/user-attachments/assets/47022d89-1c96-43ee-86e1-69bafe07a1c9" />
-
-        <br>Git
+      <td>
+        <img width="400" height="400" alt="wired-outline-2572-logo-github-hover-pinch" src="https://github.com/user-attachments/assets/5cf14b06-0aae-41a9-859e-40109ba482f6" />
       </td>
       <td align="center" width="90">
         <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
