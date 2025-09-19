@@ -57,7 +57,7 @@
         <br>Next.js
       </td>       
       <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="Node.js" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
         <br>Node.js
       </td>    
       <td align="center" width="90">
