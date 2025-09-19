@@ -67,7 +67,7 @@
 
 <!-- Snake animation center aligned -->
 <div align="center">
-  <img src="https://github.com/pouryaPKGit/ParhamPK03/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/pouryaPKGit/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Stats -->
