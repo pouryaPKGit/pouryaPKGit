@@ -44,7 +44,7 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
         <br>Bootstrap
       </td>
-      <td>
+      <td align="center">
          <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/d5b14f79-065c-45ac-8e09-9d1d8826dbcc" />
          <br>Git
       </td>
