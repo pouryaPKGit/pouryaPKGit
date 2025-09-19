@@ -29,7 +29,7 @@
         <br>TypeScript
       </td>
       <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> 
+        <img src="https://github.com/user-attachments/assets/6179b572-a732-40ec-a27a-fd720dc0c365" alt="html5" width="65" height="65"/> 
         <br>Html
       </td>
       <td align="center" width="90">
