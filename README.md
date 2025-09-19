@@ -41,7 +41,7 @@
         <br>React
       </td>
       <td align="center" width="90">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="icon" width="55" height="55" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
         <br>Bootstrap
       </td>
       <td align="center" width="90"> 
