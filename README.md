@@ -60,10 +60,6 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
         <br>Node.js
       </td>    
-      <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-        <br>Postman
-      </td> 
     </tr> 
   </table>
 </div>
