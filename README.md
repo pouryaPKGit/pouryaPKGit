@@ -45,7 +45,7 @@
         <br>Bootstrap
       </td>
       <td>
-        <img width="400" height="400" alt="wired-outline-2572-logo-github-hover-pinch" src="https://github.com/user-attachments/assets/5cf14b06-0aae-41a9-859e-40109ba482f6" />
+         <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/05bd4093-a6dd-44e0-adcf-fc5ccbc3a41d" />
       </td>
       <td align="center" width="90">
         <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
