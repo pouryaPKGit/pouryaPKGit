@@ -20,10 +20,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> 
-        <br>Css
-      </td>
+     
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
         <br>JavaScript
